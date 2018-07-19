@@ -1,0 +1,22 @@
+{
+  "name": "@nearform/compute-magic",
+  "version": "0.0.0",
+  "description": "Computes a magic token very slowly",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearform/compute-magic.git"
+  },
+  "author": "nearForm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nearform/compute-magic/issues"
+  },
+  "homepage": "https://github.com/nearform/compute-magic#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
