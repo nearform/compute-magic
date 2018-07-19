@@ -17,6 +17,6 @@ console.log(magic)
 
 Computes a sha512 of 1000x the args
 
-## LICENSE
+## License
 
 MIT
